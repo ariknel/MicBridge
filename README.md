@@ -1,7 +1,7 @@
 # WASAPI → ASIO Bridge
 
 A real-time audio bridge that captures from any USB microphone (or input device) via WASAPI and routes it to your DAW (Bitwig, Reaper, etc.) through a virtual audio device + FlexASIO.
-
+<img width="720" height="720" alt="MicBridge" src="https://github.com/user-attachments/assets/44c57930-fd59-42a2-95cc-6f69f3a83eae" />
 ```
 USB Mic → WASAPI Capture → Lock-free Ring Buffer → WASAPI Render → Virtual Cable → FlexASIO → Bitwig
 ```
