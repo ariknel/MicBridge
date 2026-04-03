@@ -1,0 +1,7 @@
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/bridge_cli.dir
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/bridge_gui.dir
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/edit_cache.dir
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/list_install_components.dir
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/install.dir
+C:/Users/Arik/Desktop/wasapi-asio-bridge/build/CMakeFiles/install/local.dir
